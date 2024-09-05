@@ -25,7 +25,7 @@ public class SoundManager : MonoBehaviour
 
     public AudioClip meGameClear;
     public AudioClip meGameOver;
-    public AudioClip seShoot;
+    public AudioClip seShoot;   
 
     public static SoundManager soundManager;
     public static BGMType playingBGM = BGMType.None;
